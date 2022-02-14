@@ -13,6 +13,9 @@
       color: #fff;
       font-size: 1.5rem;
       font-family: Arial, Helvetica, sans-serif;
+    }
+
+    blockquote {
       font-style: italic;
     }
   </style>
